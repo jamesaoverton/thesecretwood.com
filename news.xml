@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Secret Wood News</title>
+    <link>http://thesecretwood.com/</link>
+    <description>A children's book, free to download.</description>
+    <language>en</language>
+    <pubDate>Mon, 18 Sep 2006 12:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2006 12:00:00 GMT</lastBuildDate>
+    <managingEditor>mail@thesecretwood.com</managingEditor>
+    <webMaster>mail@thesecretwood.com</webMaster>
+
+    <item>
+      <title>Chapter Ten Available - Final Chapter!</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The tenth and final chapter of The Secret Wood is now available in text and audio format: Peter feels the need to visit each of his friends and his favourite places in the Wood, as if something sad is about to happen.</description>
+      <pubDate>Thu, 14 Dec 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#9</guid>
+    </item>
+
+    <item>
+      <title>Chapter Nine Available</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The ninth chapter of The Secret Wood is now available in text and audio format: When a giant mountain springs up in the Wood, the friends can’t resist climbing it, especially since it just might reach to the Moon!</description>
+      <pubDate>Thu, 7 Dec 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#8</guid>
+    </item>
+
+    <item>
+      <title>Chapter Eight Available</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The eighth chapter of The Secret Wood is now available in text and audio format: Peter stumbles onto a trail of clues leading to pirate treasure!</description>
+      <pubDate>Thu, 30 Nov 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#7</guid>
+    </item>
+
+    <item>
+      <title>Chapter Seven Available</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The seventh chapter of The Secret Wood is now available in text and audio format: Peter and his friends need all of their courage and cleverness when a gigantic flood covers the entire Wood.</description>
+      <pubDate>Thu, 23 Nov 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#6</guid>
+    </item>
+
+    <item>
+      <title>Chapter Six Available</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The sixth chapter of The Secret Wood is now available in text and audio format: A cloud so thick they can walk on it, traps the friends high in the sky, with no way to get back down.</description>
+      <pubDate>Thu, 16 Nov 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#5</guid>
+    </item>
+
+    <item>
+      <title>Chapter Five Available</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The fifth chapter of The Secret Wood is now available in text and audio format.</description>
+      <pubDate>Thu, 9 Nov 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#4</guid>
+    </item>
+
+    <item>
+      <title>Chapter Four Available</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>The fourth chapter of The Secret Wood is now available in text and audio format.</description>
+      <pubDate>Thu, 2 Nov 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#3</guid>
+    </item>
+
+    <item>
+      <title>New Podcast</title>
+    	<link>http://thesecretwood.com/podcast.xml</link>
+      <description>Listen to the first chapter of The Secret Wood read aloud by S.G. Overton. Subscribe to our podcast to hear future chapters.</description>
+      <pubDate>Sun, 1 Oct 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#2</guid>
+    </item>
+
+    <item>
+      <title>Web Site Launched</title>
+    	<link>http://thesecretwood.com/</link>
+      <description>The website for The Secret Wood has launched at http://thesecretwood.com. The first three chapters of the book are now available for free, under the terms of a Creative Commons license.</description>
+      <pubDate>Mon, 18 Sep 2006 12:00:00 GMT</pubDate>
+      <guid>http://thesecretwood.com/news.xml#1</guid>
+    </item>
+  </channel>
+</rss>

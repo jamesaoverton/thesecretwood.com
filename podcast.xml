@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+If you are seeing this file, you've clicked on
+the link to The Secret Wood Podcast.
+This file is meant to be read by a music program
+like iTunes and not by a web browser.
+
+What you should do is copy the URL of this file
+and paste it into your podcast program:
+
+http://thesecretwood.com/podcast.xml
+
+-->
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Secret Wood Podcast</title>
+    <link>http://thesecretwood.com/</link>
+    <language>en-us</language>
+    <copyright>&#xA9; &amp; &#x2117; 2006 S.G. Overton</copyright>
+    <itunes:subtitle>S.G. Overton reads from The Secret Wood. You can read along!</itunes:subtitle>
+    <itunes:author>S.G. Overton</itunes:author>
+    <description>S.G. Overton reads chapters from his children's book The Secret Wood. This podcast includes both text and audio files, so you can read along as you listen.</description>
+    <itunes:summary>S.G. Overton reads chapters from his children's book The Secret Wood. This podcast includes both text and audio files, so you can read along as you listen.</itunes:summary>
+    <itunes:explicit>clean</itunes:explicit>
+    <pubDate>Sun, 1 Oct 2006 12:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2006 12:02:00 GMT</lastBuildDate>
+    <managingEditor>mail@thesecretwood.com</managingEditor>
+    <webMaster>mail@thesecretwood.com</webMaster>
+    <itunes:owner>
+        <itunes:name>S.G. Overton</itunes:name>
+        <itunes:email>mail@thesecretwood.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://thesecretwood.com/images/TheSecretWood3.jpg"/>
+    <itunes:category text="Kids &amp; Family">
+    <itunes:category text="Arts"/>
+        <itunes:category text="Literature"/>
+    </itunes:category>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Ten</title>
+        <itunes:subtitle>Chapter Ten "There Comes a Time of Sadness"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter10.mp3" length="17792521" type="audio/mpeg"/>
+        <itunes:duration>18:32</itunes:duration>
+        <description>S.G. Overton reads the tenth and final chapter of The Secret Wood. Peter feels the need to visit each of his friends and his favourite places in the Wood, as if something sad is about to happen.</description>
+        <pubDate>Thu, 14 Dec 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#20</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Ten</title>
+        <itunes:subtitle>Chapter Ten "There Comes a Time of Sadness"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter10.pdf" length="100484" type="application/pdf"/>
+        <description>Peter feels the need to visit each of his friends and his favourite places in the Wood, as if something sad is about to happen.</description>
+        <pubDate>Thu, 14 Dec 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#19</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Nine</title>
+        <itunes:subtitle>Chapter Nine "To Touch the Sky"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter9.mp3" length="23574150" type="audio/mpeg"/>
+        <itunes:duration>24:33</itunes:duration>
+        <description>S.G. Overton reads the ninth chapter of The Secret Wood. When a giant mountain springs up in the Wood, the friends can’t resist climbing it, especially since it just might reach to the Moon!</description>
+        <pubDate>Thu, 7 Dec 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#18</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Nine</title>
+        <itunes:subtitle>Chapter Nine "To Touch the Sky"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter9.pdf" length="112888" type="application/pdf"/>
+        <description>When a giant mountain springs up in the Wood, the friends can’t resist climbing it, especially since it just might reach to the Moon!</description>
+        <pubDate>Thu, 7 Dec 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#17</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Eight</title>
+        <itunes:subtitle>Chapter Eight "Treasure Hunt"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter8.mp3" length="20851146" type="audio/mpeg"/>
+        <itunes:duration>21:43</itunes:duration>
+        <description>S.G. Overton reads the eighth chapter of The Secret Wood. Peter stumbles onto a trail of clues leading to pirate treasure!</description>
+        <pubDate>Thu, 30 Nov 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#16</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Eight</title>
+        <itunes:subtitle>Chapter Eight "Treasure Hunt"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter8.pdf" length="109892" type="application/pdf"/>
+        <description>Peter stumbles onto a trail of clues leading to pirate treasure!</description>
+        <pubDate>Thu, 30 Nov 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#15</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Seven</title>
+        <itunes:subtitle>Chapter Seven "A Little Bit Of Rain"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter7.mp3" length="36410307" type="audio/mpeg"/>
+        <itunes:duration>37:53</itunes:duration>
+        <description>S.G. Overton reads the seventh chapter of The Secret Wood. Peter and his friends need all of their courage and cleverness when a gigantic flood covers the entire Wood.</description>
+        <pubDate>Thu, 23 Nov 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#14</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Seven</title>
+        <itunes:subtitle>Chapter Seven "A Little Bit Of Rain"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter7.pdf" length="141899" type="application/pdf"/>
+        <description>Peter and his friends need all of their courage and cleverness when a gigantic flood covers the entire Wood.</description>
+        <pubDate>Thu, 23 Nov 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#13</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Six</title>
+        <itunes:subtitle>Chapter Six "The Ceiling Over The World"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter6.mp3" length="29512726" type="audio/mpeg"/>
+        <itunes:duration>30:42</itunes:duration>
+        <description>S.G. Overton reads the sixth chapter of The Secret Wood. A cloud so thick they can walk on it, traps the friends high in the sky, with no way to get back down.</description>
+        <pubDate>Thu, 16 Nov 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#12</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Six</title>
+        <itunes:subtitle>Chapter Six "The Ceiling Over The World"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter6.pdf" length="123652" type="application/pdf"/>
+        <description>A cloud so thick they can walk on it, traps the friends high in the sky, with no way to get back down.</description>
+        <pubDate>Thu, 16 Nov 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#11</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Five</title>
+        <itunes:subtitle>Chapter Five "Hide and Seek"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter5.mp3" length="30946332" type="audio/mpeg"/>
+        <itunes:duration>32:11</itunes:duration>
+        <description>S.G. Overton reads the fifth chapter of The Secret Wood. A game of Hide and Seek turns serious when Léolin finds herself in terrible danger.</description>
+        <pubDate>Thu, 9 Nov 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#10</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Five</title>
+        <itunes:subtitle>Chapter Five "Hide and Seek"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter5.pdf" length="128883" type="application/pdf"/>
+        <description>A game of Hide and Seek turns serious when Léolin finds herself in terrible danger.</description>
+        <pubDate>Thu, 9 Nov 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#9</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Four</title>
+        <itunes:subtitle>Chapter Four "The Wood has a Visitor"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter4.mp3" length="22243168" type="audio/mpeg"/>
+        <itunes:duration>23:07</itunes:duration>
+        <description>S.G. Overton reads the fourth chapter of The Secret Wood. Peter awakens from a dream about his uncle’s puppy only to learn that a frightening creature has suddenly appeared  through the ‘doorway’ from the other worlds, and is scaring the helpless animals.</description>
+        <pubDate>Thu, 2 Nov 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#8</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Four</title>
+        <itunes:subtitle>Chapter Four "The Wood has a Visitor"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter4.pdf" length="114007" type="application/pdf"/>
+        <description>Peter awakens from a dream about his uncle’s puppy only to learn that a frightening creature has suddenly appeared  through the ‘doorway’ from the other worlds, and is scaring the helpless animals.</description>
+        <pubDate>Thu, 2 Nov 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#7</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Three</title>
+        <itunes:subtitle>Chapter Three "To Find Another World"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter3.mp3" length="18052910" type="audio/mpeg"/>
+        <itunes:duration>18:48</itunes:duration>
+        <description>S.G. Overton reads the second chapter of The Secret Wood. Peter and his friends search for the way back to Peter's home, but The Wood seems to be playing tricks on them.</description>
+        <pubDate>Thu, 26 Oct 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#6</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Three</title>
+        <itunes:subtitle>Chapter Three "To Find Another World"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter3.pdf" length="99172" type="application/pdf"/>
+        <description>Peter and his friends search for the way back to Peter's home, but The Wood seems to be playing tricks on them.</description>
+        <pubDate>Thu, 26 Oct 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#5</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter Two</title>
+        <itunes:subtitle>Chapter Two "The Search For A Home"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter2.mp3" length="23083884" type="audio/mpeg"/>
+        <itunes:duration>24:02</itunes:duration>
+        <description>S.G. Overton reads the second chapter of The Secret Wood. Peter's new friends try to find a suitable place for him to live, and he discovers that The Wood has a strange magic: it is never the same two days in a row!</description>
+        <pubDate>Thu, 19 Oct 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#4</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter Two</title>
+        <itunes:subtitle>Chapter Two "The Search For A Home"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter2.pdf" length="114510" type="application/pdf"/>
+        <description>Peter's new friends try to find a suitable place for him to live, and he discovers that The Wood has a strange magic: it is never the same two days in a row!</description>
+        <pubDate>Thu, 19 Oct 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#3</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Listen to Chapter One</title>
+        <itunes:subtitle>Chapter One "The World Inside The Picture Book"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/audio/TheSecretWood-Chapter1.mp3" length="20658467" type="audio/mpeg"/>
+        <itunes:duration>21:31</itunes:duration>
+        <description>S.G. Overton reads the first chapter of The Secret Wood. 8-year-old Peter hopes to escape from a rainy summer day by looking through an old picture book. Instead he is drawn into a magical wood bursting with exciting adventures.</description>
+        <pubDate>Sun, 1 Oct 2006 12:02:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#2</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Audio</category>
+    </item>
+
+    <item>
+        <title>The Secret Wood - Read Chapter One</title>
+        <itunes:subtitle>Chapter One "The World Inside The Picture Book"</itunes:subtitle>
+        <itunes:author>S.G. Overton</itunes:author>
+        <enclosure url="http://thesecretwood.com/chapters/TheSecretWood-Chapter1.pdf" length="117479" type="application/pdf"/>
+        <description>8-year-old Peter hopes to escape from a rainy summer day by looking through an old picture book. Instead he is drawn into a magical wood bursting with exciting adventures.</description>
+        <pubDate>Sun, 1 Oct 2006 12:01:00 GMT</pubDate>
+        <guid>http://thesecretwood.com/podcast.xml#1</guid>
+        <link>http://thesecretwood.com/</link>
+        <category>Text</category>
+    </item>
+  </channel>
+</rss>

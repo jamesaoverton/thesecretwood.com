@@ -1,0 +1,199 @@
+
+body {
+	font-family: Helvitica, sans-serif;
+	background-color: #FFFFFF;
+	color: #333344;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+a {
+	color: green;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #999999;
+	padding: 0em 0.3em 0.3em 0.3em;
+	margin: 0em 0.3em 0.3em 0.3em;
+}
+
+div {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding: 0em 0.3em 0.3em 0.3em;
+	margin: 0em 0.3em 0.3em 0.3em;
+}
+
+.illustration {
+	border: 1px solid #333344;
+	padding: 1px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.icon {
+	margin: 1px;
+	padding: 1px;
+	float: none;
+	vertical-align: text-bottom;
+}
+
+.colour1 {
+	color: #333333;
+}
+
+.colour2 {
+	color: #555555;
+}
+
+.colour3 {
+	color: #444444;
+}
+
+.colour4 {
+	color: #666666;
+}
+
+
+#titleBlock {
+	text-align: center;
+	padding: 0em;
+	margin: 0em;
+}
+
+#freeDownload {
+	text-align: center;
+	padding: 0em;
+	margin: 0em;
+	font-weight: bold;
+}
+
+#author {
+	color: green;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.imagine {
+	color: #88BB88;
+	font-style: italic;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.navigation {
+	text-align: center;
+	color: #669966;
+	margin: 0.3em;
+	padding: 0em;
+}
+
+
+#summary {
+	min-height: 340px;
+	font-size: large;
+}
+
+#summary img {
+	float: left;
+}
+
+#summary p:first-letter {
+	font-size: 150%;
+}
+
+
+
+#download {
+	min-height: 404px;
+	background-color: #E8FFF0;
+	border: 1px solid #336633;
+}
+
+
+#download .illustration {
+	float: right;
+}
+
+.chapter {
+	color: #004400;
+	padding: 0.2em;
+	margin: 0.2em;
+	margin-right: 240px;
+}
+
+.chapter h3 {
+	padding: 0em;
+	margin: 0em;	
+}
+
+.chapterNumber {
+	color: #336633;
+}
+
+.chapterTitle {
+	color: #669966;
+	text-align: right;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.chapterLink {
+	color: #669966;
+	text-align: right;
+	padding: 0em;
+	margin: 0em;
+}
+
+.subscribe {
+	color: #004400;
+	padding: 0.2em;
+	margin: 0.2em;
+	margin-left: 120px;
+	margin-right: 120px;
+}
+
+#license {
+	background-color: #E8F0FF;
+	border: 1px solid #333366;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#note {
+	min-height: 404px;
+}
+
+#note img {
+	float: left;
+}
+
+.signature {
+	text-align: right;
+}
+
+.signature a {
+	color: #666666;
+	font-style: italic;
+	font-size: 120%;
+	text-decoration: none;
+}
+
+#finePrint {
+	margin-top: 3em;
+	font-size: 80%;
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#finePrint p {
+	margin: 0.2em;
+	padding: 0.2em;
+}
